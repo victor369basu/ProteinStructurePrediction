@@ -49,6 +49,8 @@ Amino acid sequences are consumed by the internal RNN, and vectors of angles are
 # Demo Notebook
 Link to demo Kaggle Notebook - [Attention Based Protein Structure Prediction](https://www.kaggle.com/code/basu369victor/attention-based-protein-structure-prediction)
 
+Note: The Notebook might take some time to load depending on your PC, as there are multiple interactive 3D plots. Please Bear until the entire page loads.
+
 # Install
 ```shell
 $ pip install -r requirements.txt
